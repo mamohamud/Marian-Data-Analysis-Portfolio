@@ -11,7 +11,7 @@ Welcome to Marian's Data Analysis Portfolio! This repository showcases examples 
 
 **Tools:** SQL, Tableau
 
-**Key Insights:**
+**Goals:**
 - Understand the distribution of patient ages.
 - Analyze gender distribution.
 - Examine the frequency of different medical conditions.
