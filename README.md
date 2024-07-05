@@ -1,6 +1,6 @@
 # Marian's Data Analysis Portfolio
 
-Welcome to Marian's Data Analysis Portfolio! This repository showcases examples of SQL and Python code that I've developed for various solo projects and coursework in data analytics, machine learning, and SQL. Below are some highlighted projects, complete with data visualisations created in Tableau. Feel free to explore and reach out with any feedback or questions.
+Welcome to my  Data Analysis Portfolio! This repository showcases examples of SQL and Python code that I've developed for various solo projects and coursework in data analytics, machine learning, and SQL. Below are some highlighted projects, complete with data visualisations created in Tableau. Feel free to explore and reach out with any feedback or questions.
 
 ## Highlighted Projects
 
